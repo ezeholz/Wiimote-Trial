@@ -1,0 +1,12 @@
+https://forum.cemu.info/showthread.php/140-WiimoteHook-Nintendo-Wii-Remote-with-MotionPlus-Rumble-and-Nunchuk-support
+
+https://www.robotshop.com/letsmakerobots/using-a-wiimote-with-processing-control-your-robots
+
+http://www.geocities.jp/classiclll_newweb/MyFirstWii/applet/MyFirstWii.txt
+
+https://www.instructables.com/id/virtual-graffiti/
+
+https://github.com/jonleung/WiiConductor/tree/master/dir7_OriginalWiiRemoteJ/WiiRemoteJ%20v1.6
+
+https://github.com/AndersMalmgren/FreePIE
+
