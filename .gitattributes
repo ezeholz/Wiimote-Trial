@@ -1,6 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-Librerias Wiimote/**/* -linguist-vendored=true
-Librerias Wiimote/**/**/* -linguist-vendored=true
-Librerias Wiimote/**/**/**/* -linguist-vendored=true
+* -linguist-vendored=true
+*.pde -linguist-vendored=false
